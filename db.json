@@ -3,140 +3,138 @@
         {
           "id": 1,
           "name": "Baahubali 2: The Conclusion",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BMjEyMjczNzY0OV5BMl5BanBnXkFtZTgwODg5NzEyMjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/9/93/Baahubali_2_The_Conclusion_poster.jpg",
           "release_year": 2017,
           "imdb_rating": 8.2
         },
         {
           "id": 2,
           "name": "Khaidi No. 150",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BMTcwNzU0ODk1OV5BMl5BanBnXkFtZTgwNTcxOTgwNzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0e/Chiranjeevi%27s_Khaidi_No.150_poster.jpg",
           "release_year": 2017,
           "imdb_rating": 7.2
         },
         {
           "id": 3,
           "name": "Rangasthalam",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BYzBhYjI5ZjUtNWI3OS00NjBlLThmNzAtOGNjMTM5NzZjMmM2XkEyXkFqcGdeQXVyMjM0MDA2OQ@@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5d/Rangasthalam.jpg",
           "release_year": 2018,
           "imdb_rating": 8.4
         },
         {
           "id": 4,
           "name": "Arjun Reddy",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BODAxMjQ0MzA0Nl5BMl5BanBnXkFtZTgwMjYwMzY0MDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/4/46/Arjun_Reddy.jpg",
           "release_year": 2017,
           "imdb_rating": 8.1
         },
         {
           "id": 5,
           "name": "Sye Raa Narasimha Reddy",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BMTkwNzg5NzM3OV5BMl5BanBnXkFtZTgwODkxNjEwNjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/a/ac/Sye_Raa_Narasimha_Reddy_film_poster.jpg",
           "release_year": 2019,
           "imdb_rating": 7.5
         },
         {
           "id": 6,
           "name": "F2: Fun and Frustration",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BMjQzNjI3MjY1M15BMl5BanBnXkFtZTgwNzM0MTkxNjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c6/F2_Fun_and_Frustration.jpg",
           "release_year": 2019,
           "imdb_rating": 7.1
         },
         {
           "id": 7,
           "name": "Ala Vaikunthapurramuloo",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BMjM4NzQ3NTQzM15BMl5BanBnXkFtZTgwODExNzMwNjE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/2/28/Ala_Vaikunthapurramuloo.jpeg",
           "release_year": 2020,
           "imdb_rating": 7.4
         },
         {
           "id": 8,
           "name": "Pushpa: The Rise",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BMzA4OTMwNjA4N15BMl5BanBnXkFtZTgwNzM5MDMwNzE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://en.wikipedia.org/wiki/File:Pushpa_-_The_Rise_(2021_film).jpg",
           "release_year": 2021,
           "imdb_rating": 7.6
         },
         {
           "id": 9,
           "name": "RRR",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BYzBiMjE0NzEtMzU3OS00ZjAxLThmYzgtNTZkYzM4MmI1MzlmXkEyXkFqcGdeQXVyNzMwMjc3OTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg",
           "release_year": 2022,
           "imdb_rating": 8.0
         },
         {
           "id": 10,
           "name": "Radhe Shyam",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BMmZjNzQwYzQtMmFkZS00YzJhLThmZmQtOGFjZTI5YjNlMjQwXkEyXkFqcGdeQXVyNTI5NTkwNzM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://translate.google.com/website?sl=en&tl=hi&hl=hi&client=srp&u=https://upload.wikimedia.org/wikipedia/en/5/5a/Radhe_Shyam.jpg",
           "release_year": 2022,
           "imdb_rating": 5.6
         },
         {
           "id": 11,
           "name": "Bheemla Nayak",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BMTMwZTgzNmUtN2Q0Ni00YjRkLTg5OGYtOGY1ZGQzNTMwN2I2XkEyXkFqcGdeQXVyMTMwMjEwNzQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-          "release_year": 2022,
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/b/bb/Bheemla_Nayak.jpg",
           "imdb_rating": 7.4
         },
         {
           "id": 12,
           "name": "Acharya",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BMzNhYmMxZjMtYzAyNy00Njc2LTgwMjItMGQzMGE3NzZkM2JlXkEyXkFqcGdeQXVyNjA3MzkwNzc@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/Acharya_Telugu.jpg",
           "release_year": 2022,
           "imdb_rating": 5.2
         },
         {
           "id": 13,
           "name": "Khiladi",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BYmM0NzI2MDktOGZiOS00ZmI1LThlNTEtYmVhYzI5OGMwZGYzXkEyXkFqcGdeQXVyNjA3Njc5OTk@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/hi/1/13/Khiladi_2022_poster.jpg",
           "release_year": 2022,
           "imdb_rating": 5.7
         },
         {
           "id": 14,
           "name": "Bangarraju",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BZTlkNjZjNTUtYmQzZi00YzI1LTg5YzktNGEyOGNlM2FlYzBkXkEyXkFqcGdeQXVyNjg3NzMwNjk@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Bangarraju.jpg/330px-Bangarraju.jpg",
           "release_year": 2022,
           "imdb_rating": 6.2
         },
         {
           "id": 15,
           "name": "F3: Fun and Frustration",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BY2Q5ZDEzZTAtNWRhZC00ZjI5LTg3NjktZjAwZjY0YjcwYmVjXkEyXkFqcGdeQXVyMjMwNzMwOTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/5/55/F3_film_poster.jpg",
           "release_year": 2022,
           "imdb_rating": 6.4
         },
         {
           "id": 16,
           "name": "Kantara",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BYmJjYzZlZDctY2RhZC00OGZkLWFkYzAtZWIwYTZkNTJlZWExXkEyXkFqcGdeQXVyNjg3NzMwNjk@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-          "release_year": 2022,
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/8/84/Kantara_poster.jpeg",
           "imdb_rating": 8.4
         },
         {
           "id": 17,
           "name": "Waltair Veerayya",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BMTYwN2EwZTItMGU4Ny00NjcwLTg2OTctNzNlOTgzZTgwNjQ0XkEyXkFqcGdeQXVyMzI5MjE4MDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5d/Waltair_Veerayya_poster.jpg",
           "release_year": 2023,
           "imdb_rating": 6.5
         },
         {
           "id": 18,
           "name": "Veera Simha Reddy",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BMTQ2MDQzN2UtMDEzOC00ODMwLThmZmMtY2MxMjhiM2MwNjVmXkEyXkFqcGdeQXVyNjM3MjM1ODk@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/6/61/Veera_Simha_Reddy_poster.jpg",
           "release_year": 2023,
           "imdb_rating": 7.0
         },
         {
           "id": 19,
           "name": "Bholaa Shankar",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BMjVhYzcwYTctOTBkMy00ZGU2LWFkMjctMGUyMGQ2N2ZkMjNlXkEyXkFqcGdeQXVyNjg3NzMwNjk@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/9/96/Bhola_Shankar.jpg",
           "release_year": 2023,
           "imdb_rating": 5.8
         },
         {
           "id": 20,
           "name": "Salaar",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BYjI2ZDg3NzUtOGQ0Ny00OGJlLThlODMtMjQ2OGNmNzVjM2YzXkEyXkFqcGdeQXVyMjMwNzMwOTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a6/Salaar_Part_1_%E2%80%93_Ceasefire.jpg",
           "release_year": 2023,
           "imdb_rating": 7.2
         }
