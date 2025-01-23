@@ -1,65 +1,38 @@
-{
-    "movies":[
-        {
-          "name": "Baahubali 2: The Conclusion",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BMjEyMjczNzY0OV5BMl5BanBnXkFtZTgwODg5NzEyMjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-          "release_year": 2017,
-          "imdb_rating": 8.2
-        },
-        {
-          "name": "Arjun Reddy",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BZDg3ZjAzZDAtNDg0OS00MjYzLTkzYzYtNzE5NmU5ODhhNDc3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
-          "release_year": 2017,
-          "imdb_rating": 8.0
-        },
-        {
-          "name": "Rangasthalam",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BM2EwZjRjNzMtY2RhYi00ZGM0LWJjMjQtYmI0NzNiZTExZmNmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
-          "release_year": 2018,
-          "imdb_rating": 8.4
-        },
-        {
-          "name": "Ala Vaikunthapurramuloo",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BYjljMjYzNjgtNzQwYi00ODFlLWI1ZDAtYmU3MWUwMjNiYmEwXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_SY1000_CR0,0,666,1000_AL_.jpg",
-          "release_year": 2020,
-          "imdb_rating": 7.3
-        },
-        {
-          "name": "Pushpa: The Rise",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BNjJiYjM3NzktMDY5Zi00ZmJmLWEwNzUtNzQxNzliNjY4MTNmXkEyXkFqcGdeQXVyNjY1MTg4Mzk@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-          "release_year": 2021,
-          "imdb_rating": 7.6
-        },
-        {
-          "name": "RRR",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BYjNhNGM4MjgtNzQwOS00ODIxLWJiZTUtM2RmOTRhMzMyYmFlXkEyXkFqcGdeQXVyMTA2MDY4NzMy._V1_.jpg",
-          "release_year": 2022,
-          "imdb_rating": 7.9
-        },
-        {
-          "name": "Veera Simha Reddy",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BMjhkNGQxNmEtMmI4ZS00NDZmLWIxNDMtZTljNTE2MzUzMmE5XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_.jpg",
-          "release_year": 2023,
-          "imdb_rating": 6.8
-        },
-        {
-          "name": "Waltair Veerayya",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BNTkzNGFkZmYtNTk2OC00OGNhLTkzNzAtNTlmNzI5YmVjODc1XkEyXkFqcGdeQXVyOTM1NzgwMDk@._V1_FMjpg_UX1000_.jpg",
-          "release_year": 2023,
-          "imdb_rating": 7.0
-        },
-        {
-          "name": "Salaar",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BNDY2NDJlYjEtZjQwNy00MmFiLWIyNTYtMWU1NTkzNmQ3MTU4XkEyXkFqcGdeQXVyMTA2MDY4NzMy._V1_.jpg",
-          "release_year": 2024,
-          "imdb_rating": "TBD"
-        },
-        {
-          "name": "Project K",
-          "image_url": "https://m.media-amazon.com/images/M/MV5BZTcwMTg5ZGItOTViZi00YjcyLThlN2QtODBlYWMzZDczZWQyXkEyXkFqcGdeQXVyMTU2MTQxNjA0._V1_.jpg",
-          "release_year": 2025,
-          "imdb_rating": "TBD"
-        }
-      ]
-  }
+[
+    {
+      "id": 1,
+      "title": "Baahubali 2: The Conclusion",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyMjczNzY0OV5BMl5BanBnXkFtZTgwODg5NzEyMjI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+      "releaseYear": 2017,
+      "imdbRating": 8.2
+    },
+    {
+      "id": 2,
+      "title": "Arjun Reddy",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDg3ZjAzZDAtNDg0OS00MjYzLTkzYzYtNzE5NmU5ODhhNDc3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+      "releaseYear": 2017,
+      "imdbRating": 8.0
+    },
+    {
+      "id": 3,
+      "title": "Rangasthalam",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2EwZjRjNzMtY2RhYi00ZGM0LWJjMjQtYmI0NzNiZTExZmNmXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+      "releaseYear": 2018,
+      "imdbRating": 8.4
+    },
+    {
+      "id": 4,
+      "title": "Ala Vaikunthapurramuloo",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjljMjYzNjgtNzQwYi00ODFlLWI1ZDAtYmU3MWUwMjNiYmEwXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+      "releaseYear": 2020,
+      "imdbRating": 7.3
+    },
+    {
+      "id": 5,
+      "title": "Pushpa: The Rise",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjJiYjM3NzktMDY5Zi00ZmJmLWEwNzUtNzQxNzliNjY4MTNmXkEyXkFqcGdeQXVyNjY1MTg4Mzk@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+      "releaseYear": 2021,
+      "imdbRating": 7.6
+    }
+  ]
   
